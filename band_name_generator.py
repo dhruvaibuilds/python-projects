@@ -1,4 +1,4 @@
-# Day 1 - Band Name Generator | 100 Days of Python
+# Day 1 - Band Name Generator | Python projects
 
 print("Welcome to the Band Name Generator")
 city = input("What's the name of the city you grew up in?" + "\n")
